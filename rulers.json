@@ -1,0 +1,870 @@
+{
+    "AU": [
+        {
+            "start": "1901-01-01",
+            "owner": "Edmund Barton"
+        },
+        {
+            "start": "1903-09-24",
+            "owner": "Alfred Deakin"
+        },
+        {
+            "start": "1904-04-27",
+            "owner": "Chris Watson"
+        },
+        {
+            "start": "1904-08-18",
+            "owner": "George Reid"
+        },
+        {
+            "start": "1905-07-05",
+            "owner": "Alfred Deakin"
+        },
+        {
+            "start": "1908-11-13",
+            "owner": "Andrew Fisher"
+        },
+        {
+            "start": "1909-06-29",
+            "owner": "Alfred Deakin"
+        },
+        {
+            "start": "1910-04-27",
+            "owner": "Andrew Fisher"
+        },
+        {
+            "start": "1913-06-17",
+            "owner": "Joseph Cook"
+        },
+        {
+            "start": "1914-09-17",
+            "owner": "Andrew Fisher"
+        },
+        {
+            "start": "1915-10-27",
+            "owner": "Billy Hughes"
+        },
+        {
+            "start": "1923-02-09",
+            "owner": "Stanley Bruce"
+        },
+        {
+            "start": "1929-10-22",
+            "owner": "James Scullin"
+        },
+        {
+            "start": "1932-01-06",
+            "owner": "Joseph Lyons"
+        },
+        {
+            "start": "1939-04-07",
+            "owner": "Earle Page"
+        },
+        {
+            "start": "1939-04-26",
+            "owner": "Robert Menzies"
+        },
+        {
+            "start": "1941-08-29",
+            "owner": "Arthur Fadden"
+        },
+        {
+            "start": "1941-10-07",
+            "owner": "John Curtin"
+        },
+        {
+            "start": "1945-07-05",
+            "owner": "Frank Forde"
+        },
+        {
+            "start": "1945-07-13",
+            "owner": "Ben Chifley"
+        },
+        {
+            "start": "1949-12-19",
+            "owner": "Robert Menzies"
+        },
+        {
+            "start": "1966-01-26",
+            "owner": "Harold Holt"
+        },
+        {
+            "start": "1967-12-19",
+            "owner": "John McEwen"
+        },
+        {
+            "start": "1968-01-10",
+            "owner": "John Gorton"
+        },
+        {
+            "start": "1971-03-10",
+            "owner": "William McMahon"
+        },
+        {
+            "start": "1972-12-05",
+            "owner": "Gough Whitlam"
+        },
+        {
+            "start": "1975-11-11",
+            "owner": "Malcolm Fraser"
+        },
+        {
+            "start": "1983-03-11",
+            "owner": "Bob Hawke"
+        },
+        {
+            "start": "1991-12-20",
+            "owner": "Paul Keating"
+        },
+        {
+            "start": "1996-03-11",
+            "owner": "John Howard"
+        },
+        {
+            "start": "2007-12-03",
+            "owner": "Kevin Rudd"
+        },
+        {
+            "start": "2010-06-24",
+            "owner": "Julia Gillard"
+        },
+        {
+            "start": "2013-06-27",
+            "owner": "Kevin Rudd"
+        },
+        {
+            "start": "2013-09-18",
+            "owner": "Tony Abbott"
+        },
+        {
+            "start": "2015-09-15",
+            "owner": "Malcolm Turnbull"
+        },
+        {
+            "start": "2018-08-24",
+            "owner": "Scott Morrison"
+        },
+        {
+            "start": "2022-05-23",
+            "owner": "Anthony Albanese"
+        }
+    ],
+    "US": [
+        {
+            "start": "1789-04-30",
+            "owner": "George Washington"
+        },
+        {
+            "start": "1797-03-04",
+            "owner": "John Adams"
+        },
+        {
+            "start": "1801-03-04",
+            "owner": "Thomas Jefferson"
+        },
+        {
+            "start": "1809-03-04",
+            "owner": "James Madison"
+        },
+        {
+            "start": "1817-03-04",
+            "owner": "James Monroe"
+        },
+        {
+            "start": "1825-03-04",
+            "owner": "John Quincy Adams"
+        },
+        {
+            "start": "1829-03-04",
+            "owner": "Andrew Jackson"
+        },
+        {
+            "start": "1837-03-04",
+            "owner": "Martin Van Buren"
+        },
+        {
+            "start": "1841-03-04",
+            "owner": "William Henry Harrison"
+        },
+        {
+            "start": "1841-04-04",
+            "owner": "John Tyler"
+        },
+        {
+            "start": "1845-03-04",
+            "owner": "James K Polk"
+        },
+        {
+            "start": "1849-03-04",
+            "owner": "Zachary Taylor"
+        },
+        {
+            "start": "1850-07-09",
+            "owner": "Millard Fillmore"
+        },
+        {
+            "start": "1853-03-04",
+            "owner": "Franklin Pierce"
+        },
+        {
+            "start": "1857-03-04",
+            "owner": "James Buchanan"
+        },
+        {
+            "start": "1861-03-04",
+            "owner": "Abraham Lincoln"
+        },
+        {
+            "start": "1865-04-15",
+            "owner": "Andrew Johnson"
+        },
+        {
+            "start": "1869-03-04",
+            "owner": "Ulysses S Grant"
+        },
+        {
+            "start": "1877-03-04",
+            "owner": "Rutherford B Hayes"
+        },
+        {
+            "start": "1881-03-04",
+            "owner": "James A Garfield"
+        },
+        {
+            "start": "1881-09-19",
+            "owner": "Chester A Arthur"
+        },
+        {
+            "start": "1885-03-04",
+            "owner": "Grover Cleveland"
+        },
+        {
+            "start": "1889-03-04",
+            "owner": "Benjamin Harrison"
+        },
+        {
+            "start": "1893-03-04",
+            "owner": "Grover Cleveland"
+        },
+        {
+            "start": "1897-03-04",
+            "owner": "William McKinley"
+        },
+        {
+            "start": "1901-09-14",
+            "owner": "Theodore Roosevelt"
+        },
+        {
+            "start": "1909-03-04",
+            "owner": "William Howard Taft"
+        },
+        {
+            "start": "1913-03-04",
+            "owner": "Woodrow Wilson"
+        },
+        {
+            "start": "1921-03-04",
+            "owner": "Warren G Harding"
+        },
+        {
+            "start": "1923-08-02",
+            "owner": "Calvin Coolidge"
+        },
+        {
+            "start": "1929-03-04",
+            "owner": "Herbert Hoover"
+        },
+        {
+            "start": "1933-03-04",
+            "owner": "Franklin D Roosevelt"
+        },
+        {
+            "start": "1945-04-12",
+            "owner": "Harry S Truman"
+        },
+        {
+            "start": "1953-01-20",
+            "owner": "Dwight D Eisenhower"
+        },
+        {
+            "start": "1961-01-20",
+            "owner": "John F Kennedy"
+        },
+        {
+            "start": "1963-11-22",
+            "owner": "Lyndon B Johnson"
+        },
+        {
+            "start": "1969-01-20",
+            "owner": "Richard Nixon"
+        },
+        {
+            "start": "1974-08-09",
+            "owner": "Gerald Ford"
+        },
+        {
+            "start": "1977-01-20",
+            "owner": "Jimmy Carter"
+        },
+        {
+            "start": "1981-01-20",
+            "owner": "Ronald Reagan"
+        },
+        {
+            "start": "1989-01-20",
+            "owner": "George HW Bush"
+        },
+        {
+            "start": "1993-01-20",
+            "owner": "Bill Clinton"
+        },
+        {
+            "start": "2001-01-20",
+            "owner": "George W Bush"
+        },
+        {
+            "start": "2009-01-20",
+            "owner": "Barack Obama"
+        },
+        {
+            "start": "2017-01-20",
+            "owner": "Donald Trump"
+        },
+        {
+            "start": "2021-01-20",
+            "owner": "Joe Biden"
+        },
+        {
+            "start": "2025-01-20",
+            "owner": "Donald Trump"
+        }
+    ],
+    "UK": [
+        {
+            "start": "1721-04-03",
+            "owner": "Robert Walpole"
+        },
+        {
+            "start": "1742-02-11",
+            "owner": "Spencer Compton"
+        },
+        {
+            "start": "1743-08-27",
+            "owner": "Henry Pelham"
+        },
+        {
+            "start": "1754-03-06",
+            "owner": "Thomas Pelham-Holles"
+        },
+        {
+            "start": "1756-04-16",
+            "owner": "William Cavendish"
+        },
+        {
+            "start": "1757-07-02",
+            "owner": "Thomas Pelham-Holles"
+        },
+        {
+            "start": "1762-05-26",
+            "owner": "John Stuart"
+        },
+        {
+            "start": "1763-04-16",
+            "owner": "George Grenville"
+        },
+        {
+            "start": "1765-07-13",
+            "owner": "Charles Watson-Wentworth"
+        },
+        {
+            "start": "1766-07-30",
+            "owner": "William Pitt"
+        },
+        {
+            "start": "1768-10-14",
+            "owner": "Augustus FitzRoy"
+        },
+        {
+            "start": "1770-01-28",
+            "owner": "Frederick North"
+        },
+        {
+            "start": "1782-03-27",
+            "owner": "Charles Watson-Wentworth"
+        },
+        {
+            "start": "1782-07-04",
+            "owner": "William Petty"
+        },
+        {
+            "start": "1783-04-02",
+            "owner": "William Henry Cavendish-Bentinck"
+        },
+        {
+            "start": "1783-12-19",
+            "owner": "William Pitt the Younger"
+        },
+        {
+            "start": "1801-03-14",
+            "owner": "Henry Addington"
+        },
+        {
+            "start": "1804-05-10",
+            "owner": "William Pitt the Younger"
+        },
+        {
+            "start": "1806-01-30",
+            "owner": "William Grenville"
+        },
+        {
+            "start": "1807-03-31",
+            "owner": "William Henry Cavendish-Bentinck"
+        },
+        {
+            "start": "1809-10-04",
+            "owner": "Spencer Perceval"
+        },
+        {
+            "start": "1812-06-08",
+            "owner": "Robert Jenkinson"
+        },
+        {
+            "start": "1827-04-10",
+            "owner": "George Canning"
+        },
+        {
+            "start": "1827-08-10",
+            "owner": "Frederick Robinson"
+        },
+        {
+            "start": "1828-01-22",
+            "owner": "Arthur Wellesley"
+        },
+        {
+            "start": "1830-11-22",
+            "owner": "Charles Grey"
+        },
+        {
+            "start": "1834-07-16",
+            "owner": "William Lamb"
+        },
+        {
+            "start": "1834-11-14",
+            "owner": "Arthur Wellesley"
+        },
+        {
+            "start": "1834-12-10",
+            "owner": "Robert Peel"
+        },
+        {
+            "start": "1835-04-18",
+            "owner": "William Lamb"
+        },
+        {
+            "start": "1841-08-30",
+            "owner": "Robert Peel"
+        },
+        {
+            "start": "1846-06-29",
+            "owner": "John Russell"
+        },
+        {
+            "start": "1852-02-23",
+            "owner": "Edward Smith-Stanley"
+        },
+        {
+            "start": "1852-12-19",
+            "owner": "George Hamilton-Gordon"
+        },
+        {
+            "start": "1855-02-06",
+            "owner": "Henry John Temple"
+        },
+        {
+            "start": "1858-02-19",
+            "owner": "Edward Smith-Stanley"
+        },
+        {
+            "start": "1859-06-12",
+            "owner": "Henry John Temple"
+        },
+        {
+            "start": "1865-10-18",
+            "owner": "John Russell"
+        },
+        {
+            "start": "1866-06-28",
+            "owner": "Edward Smith-Stanley"
+        },
+        {
+            "start": "1868-02-27",
+            "owner": "Benjamin Disraeli"
+        },
+        {
+            "start": "1868-12-03",
+            "owner": "William Ewart Gladstone"
+        },
+        {
+            "start": "1874-02-20",
+            "owner": "Benjamin Disraeli"
+        },
+        {
+            "start": "1880-04-23",
+            "owner": "William Ewart Gladstone"
+        },
+        {
+            "start": "1885-06-23",
+            "owner": "Robert Gascoyne-Cecil"
+        },
+        {
+            "start": "1886-02-01",
+            "owner": "William Ewart Gladstone"
+        },
+        {
+            "start": "1886-07-25",
+            "owner": "Robert Gascoyne-Cecil"
+        },
+        {
+            "start": "1892-08-15",
+            "owner": "William Ewart Gladstone"
+        },
+        {
+            "start": "1894-03-05",
+            "owner": "Archibald Primrose"
+        },
+        {
+            "start": "1895-06-25",
+            "owner": "Robert Gascoyne-Cecil"
+        },
+        {
+            "start": "1902-07-11",
+            "owner": "Arthur Balfour"
+        },
+        {
+            "start": "1905-12-05",
+            "owner": "Henry Campbell-Bannerman"
+        },
+        {
+            "start": "1908-04-07",
+            "owner": "H. H. Asquith"
+        },
+        {
+            "start": "1916-12-07",
+            "owner": "David Lloyd George"
+        },
+        {
+            "start": "1922-10-23",
+            "owner": "Andrew Bonar Law"
+        },
+        {
+            "start": "1923-05-22",
+            "owner": "Stanley Baldwin"
+        },
+        {
+            "start": "1924-01-22",
+            "owner": "Ramsay MacDonald"
+        },
+        {
+            "start": "1924-11-04",
+            "owner": "Stanley Baldwin"
+        },
+        {
+            "start": "1929-06-05",
+            "owner": "Ramsay MacDonald"
+        },
+        {
+            "start": "1902-07-11",
+            "owner": "Arthur Balfour"
+        },
+        {
+            "start": "1905-12-05",
+            "owner": "Henry Campbell-Bannerman"
+        },
+        {
+            "start": "1908-04-07",
+            "owner": "H. H. Asquith"
+        },
+        {
+            "start": "1916-12-07",
+            "owner": "David Lloyd George"
+        },
+        {
+            "start": "1922-10-23",
+            "owner": "Andrew Bonar Law"
+        },
+        {
+            "start": "1923-05-22",
+            "owner": "Stanley Baldwin"
+        },
+        {
+            "start": "1924-01-22",
+            "owner": "Ramsay MacDonald"
+        },
+        {
+            "start": "1924-11-04",
+            "owner": "Stanley Baldwin"
+        },
+        {
+            "start": "1929-06-05",
+            "owner": "Ramsay MacDonald"
+        },
+        {
+            "start": "1935-06-07",
+            "owner": "Stanley Baldwin"
+        },
+        {
+            "start": "1937-05-28",
+            "owner": "Neville Chamberlain"
+        },
+        {
+            "start": "1940-05-10",
+            "owner": "Winston Churchill"
+        },
+        {
+            "start": "1945-07-26",
+            "owner": "Clement Attlee"
+        },
+        {
+            "start": "1951-10-26",
+            "owner": "Winston Churchill"
+        },
+        {
+            "start": "1955-04-07",
+            "owner": "Anthony Eden"
+        },
+        {
+            "start": "1957-01-10",
+            "owner": "Harold Macmillan"
+        },
+        {
+            "start": "1963-10-19",
+            "owner": "Alec Douglas-Home"
+        },
+        {
+            "start": "1964-10-16",
+            "owner": "Harold Wilson"
+        },
+        {
+            "start": "1970-06-19",
+            "owner": "Edward Heath"
+        },
+        {
+            "start": "1974-03-04",
+            "owner": "Harold Wilson"
+        },
+        {
+            "start": "1976-04-05",
+            "owner": "James Callaghan"
+        },
+        {
+            "start": "1979-05-04",
+            "owner": "Margaret Thatcher"
+        },
+        {
+            "start": "1990-11-28",
+            "owner": "John Major"
+        },
+        {
+            "start": "1997-05-02",
+            "owner": "Tony Blair"
+        },
+        {
+            "start": "2007-06-27",
+            "owner": "Gordon Brown"
+        },
+        {
+            "start": "2010-05-11",
+            "owner": "David Cameron"
+        },
+        {
+            "start": "2016-07-13",
+            "owner": "Theresa May"
+        },
+        {
+            "start": "2019-07-24",
+            "owner": "Boris Johnson"
+        },
+        {
+            "start": "2022-09-06",
+            "owner": "Liz Truss"
+        },
+        {
+            "start": "2022-10-25",
+            "owner": "Rishi Sunak"
+        },
+        {
+            "start": "2024-07-05",
+            "owner": "Keir Starmer"
+        }
+    ],
+    "NZ": [
+        {
+            "start": "1869-06-28",
+            "owner": "William Fox"
+        },
+        {
+            "start": "1872-09-10",
+            "owner": "Edward Stafford"
+        },
+        {
+            "start": "1872-10-11",
+            "owner": "George Waterhouse"
+        },
+        {
+            "start": "1871-04-30",
+            "owner": "William Fox"
+        },
+        {
+            "start": "1873-03-08",
+            "owner": "Julius Vogel"
+        },
+        {
+            "start": "1876-10-21",
+            "owner": "Daniel Pollen"
+        },
+        {
+            "start": "1876-02-15",
+            "owner": "Harry Atkinson"
+        },
+        {
+            "start": "1877-10-13",
+            "owner": "George Grey"
+        },
+        {
+            "start": "1879-10-08",
+            "owner": "John Hall"
+        },
+        {
+            "start": "1882-04-21",
+            "owner": "Frederick Whitaker"
+        },
+        {
+            "start": "1883-09-25",
+            "owner": "Harry Atkinson"
+        },
+        {
+            "start": "1884-08-16",
+            "owner": "Robert Stout"
+        },
+        {
+            "start": "1887-10-08",
+            "owner": "Harry Atkinson"
+        },
+        {
+            "start": "1891-01-24",
+            "owner": "John Ballance"
+        },
+        {
+            "start": "1893-04-27",
+            "owner": "Richard Seddon"
+        },
+        {
+            "start": "1906-08-06",
+            "owner": "Joseph Ward"
+        },
+        {
+            "start": "1912-03-28",
+            "owner": "Thomas Mackenzie"
+        },
+        {
+            "start": "1912-07-10",
+            "owner": "William Massey"
+        },
+        {
+            "start": "1925-05-30",
+            "owner": "Gordon Coates"
+        },
+        {
+            "start": "1928-12-10",
+            "owner": "Joseph Ward"
+        },
+        {
+            "start": "1930-05-28",
+            "owner": "George Forbes"
+        },
+        {
+            "start": "1935-12-06",
+            "owner": "Michael Joseph Savage"
+        },
+        {
+            "start": "1940-04-27",
+            "owner": "Peter Fraser"
+        },
+        {
+            "start": "1949-12-13",
+            "owner": "Sidney Holland"
+        },
+        {
+            "start": "1957-06-20",
+            "owner": "Keith Holyoake"
+        },
+        {
+            "start": "1957-12-12",
+            "owner": "Walter Nash"
+        },
+        {
+            "start": "1960-12-12",
+            "owner": "Keith Holyoake"
+        },
+        {
+            "start": "1972-02-07",
+            "owner": "Jack Marshall"
+        },
+        {
+            "start": "1972-12-08",
+            "owner": "Norman Kirk"
+        },
+        {
+            "start": "1974-08-31",
+            "owner": "Bill Rowling"
+        },
+        {
+            "start": "1975-12-12",
+            "owner": "Robert Muldoon"
+        },
+        {
+            "start": "1984-07-26",
+            "owner": "David Lange"
+        },
+        {
+            "start": "1989-08-08",
+            "owner": "Geoffrey Palmer"
+        },
+        {
+            "start": "1990-09-04",
+            "owner": "Mike Moore"
+        },
+        {
+            "start": "1990-11-02",
+            "owner": "Jim Bolger"
+        },
+        {
+            "start": "1997-12-08",
+            "owner": "Jenny Shipley"
+        },
+        {
+            "start": "1999-12-10",
+            "owner": "Helen Clark"
+        },
+        {
+            "start": "2008-11-19",
+            "owner": "John Key"
+        },
+        {
+            "start": "2016-12-12",
+            "owner": "Bill English"
+        },
+        {
+            "start": "2017-10-26",
+            "owner": "Jacinda Ardern"
+        },
+        {
+            "start": "2023-01-25",
+            "owner": "Chris Hipkins"
+        },
+        {
+            "start": "2023-11-27",
+            "owner": "Christopher Luxon"
+        }
+    ]
+}
