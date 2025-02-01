@@ -3,6 +3,8 @@ name = "modern-roman-clock"
 version = "0.1.0"
 authors = ["sardap <paul@sarda.dev>"]
 edition = "2018"
+description = "A crate that no one should use that converts chrono time to a modernized way of how the romans told time"
+license = "MIT"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
