@@ -17,7 +17,7 @@ wasm-bindgen = "0.2.84"
 chrono = "0.4.39"
 chrono-tz = "0.10.1"
 num-ordinal = "0.2.0"
-sunrise = "1.0.1"
+sunrise = "2.1.0"
 
 [target.'cfg(target_arch = "wasm32")'.dependencies]
 js-sys = "0.3.77"
